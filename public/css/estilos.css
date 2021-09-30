@@ -1,0 +1,48 @@
+body{
+    text-transform: uppercase;
+    font-family: 'Karla', sans-serif;
+}
+
+.abajo{
+    padding-top: 30px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.logo{
+    width: 150px;
+}
+
+.separador{
+    padding-top: 50px;
+}
+
+.fab{
+    font-size: 40px;
+}
+
+.iconos{
+    width: 130px;
+}
+
+.blockquote-footer{
+    color: black;
+}
+
+footer{
+    text-align: end;
+    text-transform: none;
+    padding-top: 5px;
+    background: #FBF4E9;
+}
+
+.sep{
+    padding: 20px 20px 20px 20px;
+}
+
+i{
+    text-decoration: none;
+    color: black;
+}
